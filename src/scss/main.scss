@@ -1,0 +1,41 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-brand {
+  font-weight: 600;
+  font-size: 1.25rem; /* 20px */
+}
+
+.navbar-text {
+  font-size: 0.875rem; /* 14px */
+  color: #6c757d;
+}
+
+.nav-link {
+  color: black;
+  font-weight: 600;
+}
+
+.nav-link:hover {
+  color: #0d6efd;
+}
+
+.btn-entradas {
+  background-color: black;
+  color: white;
+  border: 1px solid black;
+}
+
+.btn-entradas:hover {
+  background-color: white;
+  color: black;
+}
+
+.fa-bars {
+  color: black;
+}
+
+.site-content {
+  margin-top: 60px;
+}

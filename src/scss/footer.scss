@@ -1,0 +1,74 @@
+.footer-background {
+  background-color: #000;
+  color: #fff;
+}
+
+.footer-link {
+  color: #fff;
+  text-decoration: none;
+  font-size: 0.875rem; /* 14px */
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+}
+
+.social-icon {
+  color: #fff;
+  font-size: 24px;
+}
+
+.social-icon:hover {
+  color: #0d6efd;
+}
+
+.footer-divider {
+  border-top: 1px solid #fff;
+  opacity: 0.2;
+}
+
+.subscribe-btn {
+  background-color: #fff;
+  color: #000;
+  border: 0;
+}
+
+.subscribe-btn:hover {
+  background-color: #e9ecef;
+}
+
+.footer-heading {
+  font-size: 1.125rem; /* 18px */
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.footer-text {
+  font-size: 0.875rem; /* 14px */
+}
+
+.contact-info {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.875rem; /* 14px */
+}
+
+.contact-icon {
+  font-size: 1.5rem; /* 24px */
+}
+
+.btn-newsletter {
+  font-weight: 600;
+  padding: 0.375rem 1.5rem; /* 6px 24px */
+  font-size: 0.875rem; /* 14px */
+}
+
+.footer-logo {
+  max-width: 150px; /* Adjust as needed */
+  margin-bottom: 1rem;
+}
+
+.footer-email {
+  font-size: 0.875rem; /* 14px */
+}
